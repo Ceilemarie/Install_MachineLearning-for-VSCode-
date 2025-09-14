@@ -1,2 +1,1 @@
-Subject: CS Elective 1
-credits: @cybereyesite
+Subject: CS Elective 1 | credits: @cybereyesite
